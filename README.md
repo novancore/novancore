@@ -2,7 +2,7 @@
 
 <!-- ══════════════ HEADER BANNER ══════════════ -->
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:003d33,100:00e5a0&height=220&section=header&text=Donovan%20Piper&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Senior%20Full%20Stack%20Engineer%20%E2%9A%A1%20Founding%20Engineer%20%E2%80%94%20AI%20%26%20Cloud%20Platforms&descSize=16&descAlignY=62&descColor=8b949e&animation=fadeIn)](https://github.com/novancore)
+[![Header](assets/header-banner.svg)](https://github.com/novancore)
 
 <!-- ══════════════ ANIMATED BANNER GIF ══════════════ -->
 
